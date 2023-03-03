@@ -8,7 +8,7 @@ module.exports = withPWA({
     disable: !isProd
   },
   images: {
-    domains: ['media.graphcms.com']
+    domains: ['media.graphassets.com']
   },
   future: {
     webpack5: true

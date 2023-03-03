@@ -3,7 +3,7 @@ import { createGlobalStyle } from 'styled-components'
 const GlobalStyles = createGlobalStyle`
   :root {
     --highlight: #e20e8d;
-    --background: #030518;
+    --background: #043539;
     --white: #eeeeee;
 
     --container: 100rem;
@@ -30,7 +30,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    font-family: --apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
+    font-family: --apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
   }
 
